@@ -9,6 +9,15 @@
   transform: translate(-50%,-50%);
   color: #fff;
 }
+
+.kasaneru6 img.imagup2{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;
+}
+
 @media screen and (max-width: 768px){
 .kasaneru6 img.imagup{
   width: 30%;
