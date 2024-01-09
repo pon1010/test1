@@ -39,6 +39,24 @@ a {
 }
 
 
+.box{
+  position: relative;
+  text-align: center;
+}
+.no{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;
+}
+@media screen and (max-width: 768px){
+.no{
+  width: 30%;
+}
+
+
+
 /* メディアクエリ */
 
 @media(max-width:1000px){
