@@ -60,6 +60,18 @@ img.pic{
   width: 48%;
 }
 
+.column-outside-right{
+  position: relative;
+}
+
+.e{
+  position: absolute;
+  top:10%;
+  right: 70%;
+  transform: translate(-50%,-50%);
+  color: #fff;
+}
+
 /*右側へ要素を広げる（2カラム）*/
 .column-outside-right{
     flex: 1;
