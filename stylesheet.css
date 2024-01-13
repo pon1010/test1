@@ -82,5 +82,14 @@ img.pic{
 @media(max-width:750px){
 section{
   display:block;
+  
 }
+img.pic{
+  width: auto;
+}
+.column{
+  width: auto;
+}
+
+  
 }
