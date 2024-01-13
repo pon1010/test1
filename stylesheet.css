@@ -12,8 +12,8 @@
 
 .kasaneru6 img.imagup2{
   position: absolute;
-  top:100%;
-  left: 100%;
+  top:10%;
+  left: 70%;
   transform: translate(-50%,-50%);
   color: #fff;
 }
