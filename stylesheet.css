@@ -78,3 +78,9 @@ img.pic{
     margin-right: calc(50% - 50vw);
     margin-left: 4%;
 }
+
+@media(max-width:750px){
+section{
+  display:block;
+}
+}
