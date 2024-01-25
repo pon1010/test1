@@ -18,6 +18,8 @@
   color: #fff;
 }
 
+
+/*
 @media screen and (max-width: 768px){
 .kasaneru6 img.imagup{
   width: 30%;
@@ -27,9 +29,9 @@
 }
 }
 
+*/
 
-
-/*スクロールバーが表示される閲覧環境用に設定*/
+/*スクロールバーが表示される閲覧環境用に設定
 main{
   overflow: hidden;
 }
@@ -71,13 +73,15 @@ img.pic{
   transform: translate(-50%,-50%);
   color: #fff;
 }
+*/
 
-/*右側へ要素を広げる（2カラム）*/
+/*右側へ要素を広げる（2カラム）
 .column-outside-right{
     flex: 1;
     margin-right: calc(50% - 50vw);
     margin-left: 4%;
 }
+
 
 @media(max-width:750px){
 section{
@@ -93,3 +97,4 @@ img.pic{
 
   
 }
+*/
