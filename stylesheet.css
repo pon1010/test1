@@ -1,3 +1,18 @@
+.wrapper {
+  position: relative;
+}
+
+.gazou {
+  position: relative;
+  z-index: 1;
+}
+
+.e {
+  position: absolute;
+  z-index: 2;
+}
+
+
 .kasaneru6{
   position: relative;
   text-align: center;
