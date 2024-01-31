@@ -13,6 +13,15 @@
   left: 60px;
 }
 
+.bun {
+  position: absolute;
+  z-index: 2;
+  left: 200px;
+  padding: 20px;
+}
+
+
+
 
 .kasaneru6{
   position: relative;
