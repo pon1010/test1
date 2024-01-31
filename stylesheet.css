@@ -5,12 +5,13 @@
 .gazou {
   position: relative;
   z-index: 1;
+  width: 50%;
 }
 
 .e {
   position: absolute;
   z-index: 2;
-  left: 100px;
+  left: 450px;
   
 }
 
