@@ -10,7 +10,8 @@
 .e {
   position: absolute;
   z-index: 2;
-  left: 60px;
+  left: 100px;
+  
 }
 
 .bun {
@@ -18,6 +19,7 @@
   z-index: 2;
   left: 200px;
   padding: 20px;
+  width: 300px;
 }
 
 
