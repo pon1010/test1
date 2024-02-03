@@ -1,26 +1,4 @@
-.matome {
-  position: relative;
-}
 
-.gazou {
-  position: relative;
-  z-index: 1;
-  width: 50%;
-}
-
-.e {
-  position: absolute;
-  z-index: 2;
-  left: 450px;
-  
-}
-
-.bun {
-  position: absolute;
-  left: 400px;
-  padding: 20px;
-  width: 600px;
-}
 
 
 
@@ -50,35 +28,25 @@
 
 
 
-.wrapper {
+.matome {
   position: relative;
 }
 
-.dashed-box {
+.gazou {
   position: relative;
   z-index: 1;
-  border: dashed;
-  height: 8em;
-  margin-bottom: 1em;
-  margin-top: 2em;
+  width: 50%;
+  
 }
-.gold-box {
+.e {
   position: absolute;
   z-index: 3; /* .gold-box を .green-box や .dashed-box の上に置く */
-  background: gold;
-  width: 80%;
-  left: 60px;
-  top: 3em;
+  
 }
-.green-box {
+.bun {
   position: absolute;
   z-index: 2; /* .green-box を .dashed-box の上に置く */
-  background: lightgreen;
-  width: 20%;
-  left: 65%;
-  top: -25px;
-  height: 7em;
-  opacity: 0.9;
+  
 }
 
 
