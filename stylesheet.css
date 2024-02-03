@@ -41,12 +41,12 @@
 .e {
   position: absolute;
   z-index: 3; /* .gold-box を .green-box や .dashed-box の上に置く */
-  
+  left:100px;
 }
 .bun {
   position: absolute;
   z-index: 2; /* .green-box を .dashed-box の上に置く */
-  
+  left:500px;
 }
 
 
